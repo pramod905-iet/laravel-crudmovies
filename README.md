@@ -79,3 +79,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ##### for accessing this project used port number 8002
+for run the project give command  ->"php artisan serve --port=8002"
+unless not able to run project because use port no 8002 here
